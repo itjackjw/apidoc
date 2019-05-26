@@ -1,5 +1,5 @@
 {
-  "name": "itjackjw/yii2-apidoc",
+  "name": "itjackjw/apidoc",
   "description": "能够将yii2的api以html文件导出，以及相关的测试",
   "keywords": ["yii2", "phpdoc", "apidoc", "api", "documentation"],
   "minimum-stability": "dev",
